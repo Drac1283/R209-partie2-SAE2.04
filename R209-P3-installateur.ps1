@@ -14,7 +14,7 @@ if (-not (Test-Path $zipFile)) {
 
 Write-Host "Demarrage de Docker" -ForegroundColor Cyan
 docker desktop start   
-Start-Sleep -Seconds 10
+
 
 Write-Host "Preparation de l'envirronement des conteneurs" -ForegroundColor Cyan
 
@@ -59,5 +59,5 @@ Start-Sleep -Seconds 5
 
 Write-Host ""
 Write-Host "=== Installation terminee avec succes ! ===" -ForegroundColor Cyan
-Write-Host "Vos conteneurs tournent et le dossier de travail est pret dans Documents."
+Write-Host "Vos conteneurs tournent et le dossier de travail est pret dans Documents. (dossier "SAMBA SAE2.04 Partie 2") "
 Read-Host "Appuyez sur Entrée pour quitter..."   
