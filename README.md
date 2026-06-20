@@ -7,6 +7,16 @@
 
 - [@Drac1283](https://github.com/Drac1283)
 
-Suivez les instruction du fichier "installation.txt"
 
 
+
+
+## Installation
+
+
+lancer le fichiers :
+
+    -Windows: R209-P3-installateur.ps1 
+    -Linux: R209-P3-installateur.sh
+
+    

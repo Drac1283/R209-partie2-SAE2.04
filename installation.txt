@@ -1,3 +1,0 @@
-lancer le fichiers : 
-	-Windows: R209-P3-installateur.ps1
-	-Linux: R209-P3-installateur.sh
